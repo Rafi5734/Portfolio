@@ -5,7 +5,6 @@ import {
   FaFacebookF,
   FaGithub,
   FaLinkedinIn,
-  FaTwitter,
   FaAngleDown,
 } from "react-icons/fa";
 const Hero = () => {
@@ -36,38 +35,31 @@ const Hero = () => {
         <div className="flex gap-6 items-center">
           <a
             className="social-btn"
-            href="https://www.facebook.com/profile.php?id=100006805098760"
+            href="https://www.facebook.com/kamrulhasun.rafi"
             target="_blank"
           >
             <FaFacebookF />
           </a>
           <a
             className="social-btn"
-            href="https://www.linkedin.com/in/sakib-hossain-a33357280/"
+            href="https://www.linkedin.com/in/kamrul-hasun-rafi"
             target="_blank"
           >
             <FaLinkedinIn />
           </a>
           <a
             className="social-btn"
-            href="https://github.com/SakibHossain48"
+            href="https://github.com/Rafi5734"
             target="_blank"
           >
             <FaGithub />
           </a>
-          <a
-            className="social-btn"
-            href="https://twitter.com/SakibHasan3953"
-            target="_blank"
-          >
-            <FaTwitter />
-          </a>
         </div>
         <div className="text-xs text-desc-color flex gap-2 absolute bottom-4">
-          <span className="animate-bounce text-xl">
+          <span className="animate-bounce text-xl flex justify-center items-center">
             <FaAngleDown />
+            <span className="ms-3">Scroll Down</span>
           </span>
-          <span>Scroll Down</span>
         </div>
       </div>
     </section>
