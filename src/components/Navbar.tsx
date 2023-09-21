@@ -37,8 +37,25 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <button className="btn lg:btn-md btn-sm primary-btn bg-main-color hover:bg-main-color border-0 rounded shadow-lg shadow-sec-color">
-            <span>Hire me</span>
+          {/* <button
+            data-tooltip-target="tooltip-bottom"
+            data-tooltip-placement="bottom"
+            type="button"
+            className="btn lg:btn-md btn-sm primary-btn bg-main-color hover:bg-main-color border-0 rounded shadow-lg shadow-sec-color"
+          >
+            <span className="text-[#0b1324]">
+              <a href="#about">Hire Me</a>
+            </span>
+          </button> */}
+          <button
+            data-tooltip-target="tooltip-bottom"
+            data-tooltip-placement="bottom"
+            type="button"
+            className="mb-2 md:mb-0 text-white bg-[#72e2ae] focus:ring-4 focus:outline-none font-medium rounded-lg hover:bg-main-color text-sm px-5 py-2.5 text-center dark:bg-[#72e2ae]-600 dark:hover:bg-[#72e2ae]-700 shadow-lg shadow-sec-color"
+          >
+            <span className="text-[#0b1324]">
+              <a href="#about">Hire Me</a>
+            </span>
           </button>
           <div className="dropdown dropdown-left">
             <label
