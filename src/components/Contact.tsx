@@ -155,7 +155,7 @@ const Contact = () => {
           </div>
           <button
             type="submit"
-            className="btn mt-4 lg:btn-md btn-sm primary-btn bg-[#0c1324] hover:bg-main-color border-0 rounded shadow-lg shadow-sec-color"
+            className="btn mt-4 lg:btn-md btn-sm primary-btn bg-main-color hover:bg-main-color border-0 rounded shadow-lg shadow-sec-color text-[#0c1324]"
           >
             <span>Send Message</span>
           </button>
