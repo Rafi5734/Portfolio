@@ -48,13 +48,19 @@ const Projects = () => {
               >
                 <span>Live Demo</span> <FaExternalLinkAlt />
               </a>
-              <a
-                href={project.githubUrl}
-                target="_blank"
-                className="project-card"
-              >
-                <span>Github Link</span> <FaExternalLinkAlt />
-              </a>
+              {project?.githubUrl ? (
+                <>
+                  <a
+                    href={project.githubUrl}
+                    target="_blank"
+                    className="project-card"
+                  >
+                    <span>Github Link</span> <FaExternalLinkAlt />
+                  </a>
+                </>
+              ) : (
+                <></>
+              )}
             </div>
           </div>
         ))}
