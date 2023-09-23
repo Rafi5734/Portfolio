@@ -105,16 +105,47 @@
     "id": 4534536,
     "name": "Pondit",
     "demoUrl": "https://www.pondit.com/",
-    "about": "FNS24 is a news portal application here daily news are published from the admin side and viewer can see daily updates.",
+    "about": "Pondit is course selling for technology students. It is basically Edu-tech site. There have also include all the mentors who takes the course classes and guide the students.",
     "features": [
-      "This is a React+Vite web application.",
-      "As it is a news portal application, viewer can see everyday updates via this web application",
-      "Pixel perfect site with responsive",
-      "It was an order project"
+      "This is a Vue+Vite web application.",
+      "It is an Edu-tech web application."
     ],
-    "technologies": ["JQuery", "Owl carousel", "Jquery Slider"],
-    "images": [],
+    "technologies": [
+      "Vue",
+      "JQuery",
+      "Vuex",
+      "Bootstrap",
+      "Owl carousel",
+      "Jquery Slider"
+    ],
+    "images": [""],
     "category": "React",
     "fullPage": "https://i.ibb.co/qDMjTmj/scrnli-9-23-2023-1-23-07-PM.png"
+  },
+  {
+    "id": 4534536,
+    "name": "ACS Doubts by Ronon",
+    "demoUrl": "https://acsdoubts.com/",
+    "about": "This website is designed for HSC candidate for their subject wise problem solving. The students can post their problems as a picture. Then the solver solve the problem and get a commission for the solution.",
+    "features": [
+      "This is a Vue+Vite web application.",
+      "It is an Educational web application.",
+      "There have 3 types of role access methods - Student, Solver and administrator.",
+      "Student enroll a package at their need and then a student can access to post his/her problem through the channel to solve the problem.",
+      "The solver waiting for the problem, the try to solve the problem. If a solver solve a problem his/her account add the commission.",
+      "Whole operation managed by several administrators."
+    ],
+    "technologies": [
+      "Vue",
+      "TailwindCSS",
+      "Vuex",
+      "SSL Commerze payment",
+      "OTP",
+      "JWT",
+      "SSR"
+    ],
+    "images": ["https://i.ibb.co/Vj8x8qN/scrnli-9-23-2023-4-02-33-PM.png"],
+    "category": "React",
+    "fullPage": "https://i.ibb.co/sgC4zwC/scrnli-9-23-2023-4-07-42-PM.png"
   }
 ]
