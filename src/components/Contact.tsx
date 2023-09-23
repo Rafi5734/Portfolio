@@ -58,7 +58,7 @@ const Contact = () => {
             </div>
             <div className="space-y-3">
               <h3 className="text-xl font-bold">Contact on Phone</h3>
-              <p className="text-desc-color">+8801794307640</p>
+              <p className="text-desc-color">+8801887830405</p>
             </div>
           </div>
           <div className="flex gap-6 justify-start items-center p-6 bg-[#1a2436e6] border border-sec-color rounded-lg">
@@ -67,8 +67,8 @@ const Contact = () => {
             </div>
             <div className="space-y-1">
               <h3 className="text-xl font-bold">Contact on Email</h3>
-              <p className="text-desc-color">sakib199988@gmail.com</p>
-              <p className="text-desc-color">nirjonniloy76@gmail.com</p>
+              <p className="text-desc-color">kamrulhasun5734@gmail.com</p>
+              {/* <p className="text-desc-color">nirjonniloy76@gmail.com</p> */}
             </div>
           </div>
           <div className="flex gap-6 justify-start items-center p-6 bg-[#1a2436e6] border border-sec-color rounded-lg">
@@ -77,7 +77,7 @@ const Contact = () => {
             </div>
             <div className="space-y-3">
               <h3 className="text-xl font-bold">Contact on Address</h3>
-              <p className="text-desc-color">Tongi, Gazipur, Bangladesh</p>
+              <p className="text-desc-color">Uttara, Dhaka, Bangladesh</p>
             </div>
           </div>
         </div>
@@ -155,7 +155,7 @@ const Contact = () => {
           </div>
           <button
             type="submit"
-            className="btn mt-4 lg:btn-md btn-sm primary-btn bg-main-color hover:bg-main-color border-0 rounded shadow-lg shadow-sec-color"
+            className="btn mt-4 lg:btn-md btn-sm primary-btn bg-[#0c1324] hover:bg-main-color border-0 rounded shadow-lg shadow-sec-color"
           >
             <span>Send Message</span>
           </button>
