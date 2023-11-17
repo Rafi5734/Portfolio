@@ -94,7 +94,7 @@ const Contact = () => {
             </label>
             <input
               type="text"
-              placeholder="Alex Boby"
+              placeholder="Your Name"
               {...register("name", { required: true })}
               className="border border-sec-color rounded-md py-3 px-5 bg-[#1a2436e6] text-desc-color focus:border-main-color focus:outline-none"
             />

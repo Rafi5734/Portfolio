@@ -1,29 +1,33 @@
 [
   {
     "id": 24324223,
-    "name": "Prolific Cloud",
-    "demoUrl": "https://www.prolificcloud.com/",
-    "about": "Prolific Cloud is a comprehensive solution for small to medium size businesses looking to establish or enhance their online presence. With its user-friendly interface, it allows you to easily create, design, and develop a professional website that will help you stand out from the competition.",
+    "name": "CT-Trading Corporation",
+    "demoUrl": "https://its-option-2464a.web.app/",
+    "githubUrl": "https://github.com/mdmahfuzrp/its-option-client/tree/main",
+    "about": "CT-Trading Corporation is startup trading service where a registered customer can trade with manually or bot as well. It is a multi vendor site. And in my portfolio i just show the demo site also only user pages layout.",
     "features": [
-      "This app is basically CMS-based and page builder type app",
-      "There have some pre build templates which you can customize.",
-      "Also there have custom domain facilities for your applications.",
-      "Here implements advanced SEO features.",
+      "There are attractive landing pages with different page kinds and designs that focus on pleasing users.",
+      "There have auto generated trading signal api integrated",
+      "Also there have AI bot trading features integrated.",
+      "Here integrated support is available.",
       "Here use website navigator.",
-      "For live chat, used tawk.to."
+      "You can see the admin panael with : (https://its-option-2464a.web.app/admin-1615-its/its-team) this URL",
+      "This project was a collaboration project and client project as well."
     ],
     "technologies": [
-      "NextJS",
+      "React JS",
       "SSR",
       "Swiper.js",
-      "Chakra UI",
-      "Google Tag Manager",
-      "Tawk.to",
-      "react-beautiful-dnd"
+      "TailwindCSS",
+      "Email.js",
+      "Redux RTK-query",
+      "Daisy-UI",
+      "Firebase",
+      "Recharts"
     ],
     "images": [],
-    "category": "mern",
-    "fullPage": "https://i.ibb.co/gJW0j2p/scrnli-9-23-2023-12-07-37-PM.png"
+    "category": "MERN",
+    "fullPage": "https://i.ibb.co/6sQncxV/its-option-2464a-web-app.png"
   },
   {
     "id": 8273842,
@@ -34,10 +38,13 @@
       "This is a toy eCommerce website where you can find varieties of closets and buy them.",
       "In this project used JWT authentication system for login and registration as well as google login system is there.",
       "You can see the flash sale for today feature.",
-      "It is a multi-vendor type e-commerce website."
+      "It is a multi-vendor type e-commerce website.",
+      "Email: harryfreeman01@yopmail.com",
+      "password: Testing123!"
     ],
     "technologies": [
-      "VueJS",
+      "NUXT JS",
+      "Loadashe",
       "Quasar",
       "JWT",
       "OTP verification",
@@ -73,8 +80,8 @@
       "imgbb"
     ],
     "images": [],
-    "category": "React",
-    "fullPage": "https://i.ibb.co/x1FKTrW/scrnli-9-23-2023-12-29-07-PM.png"
+    "category": "MERN",
+    "fullPage": "https://i.ibb.co/N6tMDnj/mobile-reseller-juel-web-app.png"
   },
   {
     "id": 4534536,
@@ -147,5 +154,56 @@
     "images": ["https://i.ibb.co/Vj8x8qN/scrnli-9-23-2023-4-02-33-PM.png"],
     "category": "React",
     "fullPage": "https://i.ibb.co/sgC4zwC/scrnli-9-23-2023-4-07-42-PM.png"
+  },
+  {
+    "id": 2134324,
+    "name": "editorialnews24.com",
+    "demoUrl": "https://editorialnews24.com/",
+    "about": "This website is for Kinoyee IT's news portal website. They built it for there marketing purpose too. And also enhance there services to users as well.",
+    "features": [
+      "This is a Next JS web application.",
+      "SSR inegrated in this web application",
+      "There have implemented localizations and translations.",
+      "Normal reader can read every news. But only registered reader get some benefits.",
+      "There have also news publisher who publish recent news every time.",
+      "Whole operation managed by several administrators."
+    ],
+    "technologies": [
+      "Next JS",
+      "React Bootstrap",
+      "Redux RTK-query",
+      "OTP verification",
+      "JWT",
+      "SSR",
+      "Next shared library"
+    ],
+    "images": ["https://i.ibb.co/Vj8x8qN/scrnli-9-23-2023-4-02-33-PM.png"],
+    "category": "Next JS",
+    "fullPage": "https://i.ibb.co/QXjdJP9/editorialnews24-com-localization-bn.png"
+  },
+  {
+    "id": 331234,
+    "name": "icircles.app",
+    "demoUrl": "https://icircles.app/",
+    "about": "This website is for Icircles IT blog site website. It is a kind of social media website like facebook.",
+    "features": [
+      "Dynamic account web card view.",
+      "Provide secure storage via ivault",
+      "Create own microsite.",
+      "Professional lunge page and personal lounge page.",
+      "Can find jobs from this apps.",
+      "Can markup your community via this website."
+    ],
+    "technologies": [
+      "React JS",
+      "MUI",
+      "Redux RTK-query",
+      "Pusher",
+      "JWT",
+      "Ant-D"
+    ],
+    "images": ["https://i.ibb.co/Vj8x8qN/scrnli-9-23-2023-4-02-33-PM.png"],
+    "category": "React",
+    "fullPage": "https://i.ibb.co/jwh5rkk/icircles-app.png"
   }
 ]
