@@ -2,8 +2,8 @@
   {
     "id": 24324223,
     "name": "CT-Trading Corporation",
-    "demoUrl": "https://its-option-2464a.web.app/",
-    "githubUrl": "https://github.com/mdmahfuzrp/its-option-client/tree/main",
+    "demoUrl": "https://trading-ct-site.vercel.app/",
+    "githubUrl": "https://github.com/Rafi5734/trading_CT_Site",
     "about": "CT-Trading Corporation is startup trading service where a registered customer can trade with manually or bot as well. It is a multi vendor site. And in my portfolio i just show the demo site also only user pages layout.",
     "features": [
       "There are attractive landing pages with different page kinds and designs that focus on pleasing users.",
@@ -11,7 +11,8 @@
       "Also there have AI bot trading features integrated.",
       "Here integrated support is available.",
       "Here use website navigator.",
-      "You can see the admin panael with : (https://its-option-2464a.web.app/admin-1615-its/its-team) this URL",
+      "You can see the admin panael with : (https://trading-ct-site.vercel.app/admin-1615-ct) this URL",
+      "You can see the user panael with : (https://trading-ct-site.vercel.app/user) this URL",
       "This project was a collaboration project and client project as well."
     ],
     "technologies": [
@@ -23,7 +24,8 @@
       "Redux RTK-query",
       "Daisy-UI",
       "Firebase",
-      "Recharts"
+      "Recharts",
+      "daisy-ui"
     ],
     "images": [],
     "category": "MERN",
