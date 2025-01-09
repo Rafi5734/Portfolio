@@ -1,5 +1,79 @@
 [
   {
+    "id": 243223,
+    "name": "Roktosheba.com",
+    "demoUrl": "https://blood-donation-eta-blue.vercel.app/",
+    "about": "This application serves as a platform to connect blood donors and recipients efficiently. Users can register as donors or request blood based on their specific needs. The app includes features like donor and volunteer management, blood request forms, and notifications to keep users informed. It emphasizes accessibility and community support in life-saving scenarios.",
+    "features": [
+      "Donor Registration: Individuals can sign up to become blood donors, providing their blood type, location, and availability.",
+      "Blood Request Submission: Users in need of blood can submit requests specifying their requirements, facilitating quick matches with potential donors.",
+      "Donor Search: A search function allows users to find registered donors based on blood type, location, and availability.",
+      "Donor Profiles: Detailed profiles for each donor, including name, blood type, availability status, and location, help recipients make informed decisions.",
+      "Success Stories: Testimonials from donors and recipients highlight the impact of blood donation and encourage community participation.",
+      "Donation Tips: Guidelines and advice are provided to educate users on best practices before and after donating blood.",
+      "Contact Information: Accessible contact details ensure users can reach out for support or inquiries.",
+      "Coverage Areas: Information on the regions served by the platform, emphasizing its reach and availability."
+    ],
+    "technologies": [
+      "Next.js",
+      "SSR",
+      "Swiper.js",
+      "TailwindCSS",
+      "Email.js",
+      "Redux RTK-query",
+      "Next-ui",
+      "MongoDB",
+      "Node.js",
+      "Express.js",
+      "Mongoose",
+      "JWT",
+      "CI/CD",
+      "Notification"
+    ],
+    "images": [],
+    "category": "MERN",
+    "fullPage": "https://i.postimg.cc/GhDn9KXs/screencapture-blood-donation-eta-blue-vercel-app-2025-01-09-12-04-31.png"
+  },
+  {
+    "id": 2432423,
+    "name": "AktarExpress",
+    "demoUrl": "https://aktarexpress.com/",
+    "about": "Aktar Express is an online platform designed to streamline courier and parcel delivery services. It offers efficient and reliable logistics solutions for individuals and businesses, including package tracking, fast delivery options, and seamless booking features. The platform focuses on providing a user-friendly experience for managing deliveries and ensuring customer satisfaction.",
+    "features": [
+      "No registration or login in here but after carted products, manually should entry buyer information in checkout page.",
+      "Display products with categories, descriptions, images, and prices.",
+      "Advanced search and filter options for better product discovery.",
+      "Add, update, or remove items from the cart.",
+      "Secure and streamlined checkout process with multiple payment options.",
+      "View past orders and reorder functionality.",
+      "Manage inventory, product listings, and stock.",
+      "Handle customer inquiries and process refunds or returns.",
+      "Support for various payment gateways in stripe.",
+      "Fully optimized for mobile, tablet, and desktop users.",
+      "SEO-friendly URLs and metadata for better visibility on search engines."
+    ],
+    "technologies": [
+      "Next JS",
+      "SSR",
+      "Swiper.js",
+      "TailwindCSS",
+      "Next Ui",
+      "Redux RTK-query",
+      "Node.js",
+      "Express.js",
+      "Recharts",
+      "Stripe",
+      "Loadash",
+      "MongoDB",
+      "Mongoose",
+      "JWT"
+
+    ],
+    "images": [],
+    "category": "MERN",
+    "fullPage": "https://i.postimg.cc/cC472F6k/screencapture-aktarexpress-2025-01-09-12-31-11.png"
+  },
+  {
     "id": 24324223,
     "name": "CT-Trading Corporation",
     "demoUrl": "https://trading-ct-site.vercel.app/",
@@ -30,32 +104,6 @@
     "images": [],
     "category": "MERN",
     "fullPage": "https://i.ibb.co/6sQncxV/its-option-2464a-web-app.png"
-  },
-  {
-    "id": 8273842,
-    "name": "Casabeaumonde",
-    "demoUrl": "https://casabeaumonde.com/",
-    "about": "Casa Beau Monde was created with you in mind, to improve the way you shop and share fashion. Whether you are an inspiring fashionista or an aspiring one, a stylist or a store owner, a power shopper or a window shopper, you'll find yourself at home with us. We’ve developed innovative technology that will empower you to explore and share your style, curate the best pieces from your favorite brands, live your most fashionable life, and inspire others to do the same.",
-    "features": [
-      "This is a toy eCommerce website where you can find varieties of closets and buy them.",
-      "In this project used JWT authentication system for login and registration as well as google login system is there.",
-      "You can see the flash sale for today feature.",
-      "It is a multi-vendor type e-commerce website.",
-      "Email: harryfreeman01@yopmail.com",
-      "password: Testing123!"
-    ],
-    "technologies": [
-      "NUXT JS",
-      "Loadashe",
-      "Quasar",
-      "JWT",
-      "OTP verification",
-      "Vuex",
-      "Figma"
-    ],
-    "images": [],
-    "category": "mern",
-    "fullPage": "https://i.ibb.co/1fbBDtf/scrnli-9-23-2023-12-13-10-PM.png"
   },
   {
     "id": 4534536,
