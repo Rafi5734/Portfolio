@@ -67,96 +67,71 @@
       "MongoDB",
       "Mongoose",
       "JWT"
-
     ],
     "images": [],
     "category": "MERN",
     "fullPage": "https://i.postimg.cc/cC472F6k/screencapture-aktarexpress-2025-01-09-12-31-11.png"
   },
   {
-    "id": 24324223,
-    "name": "CT-Trading Corporation",
-    "demoUrl": "https://trading-ct-site.vercel.app/",
-    "githubUrl": "https://github.com/Rafi5734/trading_CT_Site",
-    "about": "CT-Trading Corporation is startup trading service where a registered customer can trade with manually or bot as well. It is a multi vendor site. And in my portfolio i just show the demo site also only user pages layout.",
-    "features": [
-      "There are attractive landing pages with different page kinds and designs that focus on pleasing users.",
-      "There have auto generated trading signal api integrated",
-      "Also there have AI bot trading features integrated.",
-      "Here integrated support is available.",
-      "Here use website navigator.",
-      "You can see the admin panael with : (https://trading-ct-site.vercel.app/admin-1615-ct) this URL",
-      "You can see the user panael with : (https://trading-ct-site.vercel.app/user) this URL",
-      "This project was a collaboration project and client project as well."
-    ],
-    "technologies": [
-      "React JS",
-      "SSR",
-      "Swiper.js",
-      "TailwindCSS",
-      "Email.js",
-      "Redux RTK-query",
-      "Daisy-UI",
-      "Firebase",
-      "Recharts",
-      "daisy-ui"
-    ],
-    "images": [],
-    "category": "MERN",
-    "fullPage": "https://i.ibb.co/6sQncxV/its-option-2464a-web-app.png"
-  },
-  {
     "id": 4534536,
-    "name": "Mobile Reseller application",
-    "demoUrl": "https://mobile-reseller-juel.web.app/",
-    "githubUrl": "https://github.com/Rafi5734/mobile_reseller_client",
-    "about": "Mobile seller here for you , we are making the seller and buyer life easier by our service please choice the best phone for you from below categories.",
+    "name": "Editorial News 24",
+    "demoUrl": "https://editorialnews24.com/",
+    "about": "Editorial News 24 is an online news platform that provides up-to-date news and information on various topics, including politics, business, technology, entertainment, and sports. The website aims to deliver accurate and timely news to its readers, keeping them informed about current events and developments both locally and internationally.",
     "features": [
-      "This is a React+Vite web application.",
-      "You can buy a mobile from the featured phone cart as a buyer mood.",
-      "You can also sell a mobile as a seller mood.",
-      "Admin can handle allover thinks like order, buyer and seller operation from admin panel.",
-      "There have 3 types of phone category - Budget, Mid Range, Flagship and Flagship Killer.",
-      "For more information, Visit the project repository."
+      "News Categories: Sections dedicated to different topics such as politics, business, technology, entertainment, sports, and more.",
+      "Search Functionality: A search bar that allows users to find articles or news on specific topics.",
+      "User Registration and Login: Options for users to create accounts, log in, and manage their preferences.",
+      "Comment Sections: Areas where readers can engage in discussions by commenting on articles.",
+      "Social Media Integration: Buttons or links to share articles on various social media platforms.",
+      "Multimedia Content: Inclusion of images, videos, and interactive media to complement news stories.",
+      "Newsletter Subscription: An option for users to subscribe to newsletters for regular updates.",
+      "Responsive Design: A layout that adapts to different devices, ensuring accessibility on desktops, tablets, and smartphones.",
+      "Advertisement Spaces: Designated areas for advertisements to generate revenue.",
+      "Contact Information: A section providing details on how to contact the editorial team or submit feedback."
     ],
     "technologies": [
       "ReactJS",
       "Vite",
-      "JWT",
-      "Google Login",
-      "Context API",
-      "Maintaine UI",
-      "Firebase",
-      "imgbb"
+      "MUI",
+      "Redux",
+      "NGINX",
+      "Google Analytics",
+      "React Router Dom"
     ],
     "images": [],
     "category": "MERN",
-    "fullPage": "https://i.ibb.co/N6tMDnj/mobile-reseller-juel-web-app.png"
+    "fullPage": "https://i.postimg.cc/8zJTPNmC/screencapture-editorialnews24-2025-01-10-15-17-37.png"
   },
   {
     "id": 4534536,
     "name": "FNS24-News Portal",
-    "demoUrl": "https://scintillating-frangollo-17284a.netlify.app/",
-    "githubUrl": "https://github.com/Rafi5734/NewsPortal",
-    "about": "FNS24 is a news portal application here daily news are published from the admin side and viewer can see daily updates.",
+    "demoUrl": "https://www.fns24.com/",
+    "about": "FNS24 is an online news platform that provides up-to-date news and information on various topics, including politics, business, technology, entertainment, and sports. The website aims to deliver accurate and timely news to its readers, keeping them informed about current events and developments both locally and internationally.",
     "features": [
-      "This is a React+Vite web application.",
-      "As it is a news portal application, viewer can see everyday updates via this web application",
-      "Pixel perfect site with responsive",
-      "It was an order project"
+      "News Categories: Sections dedicated to different topics such as politics, business, technology, entertainment, sports, and more.",
+      "Search Functionality: A search bar that allows users to find articles or news on specific topics.",
+      "User Registration and Login: Options for users to create accounts, log in, and manage their preferences.",
+      "Comment Sections: Areas where readers can engage in discussions by commenting on articles.",
+      "Social Media Integration: Buttons or links to share articles on various social media platforms.",
+      "Multimedia Content: Inclusion of images, videos, and interactive media to complement news stories.",
+      "Newsletter Subscription: An option for users to subscribe to newsletters for regular updates.",
+      "Responsive Design: A layout that adapts to different devices, ensuring accessibility on desktops, tablets, and smartphones.",
+      "Advertisement Spaces: Designated areas for advertisements to generate revenue.",
+      "Contact Information: A section providing details on how to contact the editorial team or submit feedback."
     ],
     "technologies": [
       "ReactJS",
       "Vite",
-      "React Bootstrap",
-      "Bangla Font",
-      "JQuery",
-      "Owl carousel",
-      "Jquery Slider"
+      "Bootstrap-5",
+      "Redux",
+      "NGINX",
+      "Font-awesome",
+      "Axios",
+      "Sutoni MG for bangla font."
     ],
     "images": [],
     "category": "React",
-    "fullPage": "https://i.ibb.co/fV3C6Kg/scrnli-9-23-2023-1-15-14-PM.png"
+    "fullPage": "https://i.postimg.cc/L4jQvhwg/screencapture-fns24-2025-01-10-15-40-24.png"
   },
   {
     "id": 4534536,
@@ -204,32 +179,6 @@
     "images": ["https://i.ibb.co/Vj8x8qN/scrnli-9-23-2023-4-02-33-PM.png"],
     "category": "React",
     "fullPage": "https://i.ibb.co/sgC4zwC/scrnli-9-23-2023-4-07-42-PM.png"
-  },
-  {
-    "id": 2134324,
-    "name": "editorialnews24.com",
-    "demoUrl": "https://editorialnews24.com/",
-    "about": "This website is for Kinoyee IT's news portal website. They built it for there marketing purpose too. And also enhance there services to users as well.",
-    "features": [
-      "This is a Next JS web application.",
-      "SSR inegrated in this web application",
-      "There have implemented localizations and translations.",
-      "Normal reader can read every news. But only registered reader get some benefits.",
-      "There have also news publisher who publish recent news every time.",
-      "Whole operation managed by several administrators."
-    ],
-    "technologies": [
-      "Next JS",
-      "React Bootstrap",
-      "Redux RTK-query",
-      "OTP verification",
-      "JWT",
-      "SSR",
-      "Next shared library"
-    ],
-    "images": ["https://i.ibb.co/Vj8x8qN/scrnli-9-23-2023-4-02-33-PM.png"],
-    "category": "Next JS",
-    "fullPage": "https://i.ibb.co/QXjdJP9/editorialnews24-com-localization-bn.png"
   },
   {
     "id": 331234,
